@@ -1,0 +1,23 @@
+ #clock {
+        font-size: 100px;
+        text-align: center;
+        background-color: rgb(255, 255, 255);
+        width: 35rem;
+        display: flex;
+        height: 15rem;
+        
+        border-radius: 40px;
+        justify-content: center;
+          
+      }
+
+.cloc{
+    color: rgb(255, 222, 178);
+    background-color: rgb(248, 226, 197);
+    justify-content: center;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+    
